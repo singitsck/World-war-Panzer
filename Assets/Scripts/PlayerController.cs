@@ -54,6 +54,6 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.MovePosition(rb.position + moveAmount);
+        //rb.MovePosition(rb.position + moveAmount);
     }
 }
